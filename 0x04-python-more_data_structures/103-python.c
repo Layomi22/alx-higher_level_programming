@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Auth: Brennan D Baraban
+ * Auth: Layomi22 Grace Adeniyi Alx-student
  */
 
 #include <Python.h>
